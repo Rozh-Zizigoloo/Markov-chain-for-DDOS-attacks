@@ -140,6 +140,8 @@ else:
 ## result 🎬
 A simulation with three random reports:
 
+> you can see all of the result in Jupyter Notebook : [simulated.ipynb](https://github.com/Rozh-Zizigoloo/Markov-chain-for-DDOS-attacks/blob/main/simulated.ipynb)
+
 ![result](https://github.com/Rozh-Zizigoloo/Markov-chain-for-DDOS-attacks/blob/main/images/hhhh.png)
 
 ## References📑
